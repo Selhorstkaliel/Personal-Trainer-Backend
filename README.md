@@ -23,14 +23,19 @@ Este repositório contém a implementação completa do back-end RESTful em Java
 | `/treinos`        | GET, POST, PUT, DELETE   | Planos de treino personalizados        |
 
 ---
+
 ## 🛠️ Tecnologias Utilizadas
 
-- **Linguagem:** Java 17  
-- **Framework:** Spring Boot 3.1.0  
-- **Persistência:** Spring Data JPA, H2 Database (in-memory)  
-- **Segurança:** Spring Security, JSON Web Token (jjwt)  
-- **Mapeamento:** Lombok (getter/setter/constructors)  
-- **Build & Dependências:** Maven (spring-boot-maven-plugin)  
+| Tecnologia                     | Descrição                                   |
+|--------------------------------|---------------------------------------------|
+| Java 17                        | Linguagem de programação                    |
+| Spring Boot 3.1.0              | Framework para desenvolvimento de APIs REST |
+| Spring Data JPA                | Persistência ORM com Hibernate              |
+| H2 Database (in-memory)        | Banco de dados em memória para testes       |
+| Spring Security                | Mecanismos de segurança e autenticação      |
+| JSON Web Token (jjwt)          | Biblioteca para geração e validação de JWT  |
+| Lombok                         | Anotações para geração de getters/setters   |
+| Maven                          | Build e gerenciamento de dependências       |
 
 ---
 
