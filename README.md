@@ -1,5 +1,6 @@
 # personal-trainer-backend  
-🏋️‍♂️ Projeto Personal Trainer – Backend API  
+
+<h2> 🏋️‍♂️ Projeto Personal Trainer – Backend API  </h2>
 
 Este repositório contém a implementação completa do back-end RESTful em Java para o sistema **Personal Trainer**, um aplicativo de gerenciamento de treinos e acompanhamento físico.
 
